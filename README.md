@@ -1,4 +1,6 @@
 在项目中引入：
+
+```
 <plugin>
    <groupId>com.code</groupId>
    <artifactId>mojo-demo</artifactId>
@@ -12,3 +14,4 @@
             </execution>
        </executions>
 </plugin>
+```
